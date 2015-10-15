@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="17" height="13" tilewidth="50" tileheight="50">
+ <tileset firstgid="1" name="walls" tilewidth="50" tileheight="50">
+  <image source="walls.png" width="100" height="100"/>
+  <tile id="0">
+   <properties>
+    <property name="blr" value=""/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="blt" value=""/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="bltr" value=""/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="bl" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="grid" width="17" height="13">
+  <data encoding="base64" compression="zlib">
+   eJydkksOwCAIRPnd/8xtExf0RcGwmICIwwCGiMQLLWwGY9/ZF2yIOMR91ei49cDhm16mGhX2FtO5cO4OP8BPS815Fgaf3NwttXR3GeTn2+qvZd03taoca/JC/jM66djtJueQe9f7AxVlAaw=
+  </data>
+ </layer>
+</map>
